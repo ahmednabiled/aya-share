@@ -398,8 +398,8 @@ def process_full_pipeline(
     output_video: str = "final_video.mp4",
     output_dir: str = "splitted_audio",
     api_url: Optional[str] = None,
-    bg_path: str = "testing/bg.png",
-    font_path: str = "testing/TheYearofTheCamel-Regular.otf"
+    bg_path: str = "assets/bg.png",
+    font_path: str = "assets/TheYearofTheCamel-Regular.otf"
 ) -> Dict[str, any]:
     """
     Run the complete pipeline: split → transcribe → generate video.
@@ -481,8 +481,8 @@ if __name__ == "__main__":
             output_video="final_video.mp4",
             output_dir="splitted_audio",
             api_url="https://a931226e7236.ngrok-free.app/transcribe",  # Set to your API URL if you want transcription
-            bg_path="testing/bg.png",
-            font_path="testing/TheYearofTheCamel-Regular.otf"
+            bg_path="assets/bg.png",
+            font_path="assets/TheYearofTheCamel-Regular.otf"
         )
         
         logger.info("\n" + "=" * 60)
