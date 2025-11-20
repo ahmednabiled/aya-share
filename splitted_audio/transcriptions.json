@@ -1,62 +1,42 @@
 [
   {
     "file": "splitted_audio/chunk_0.wav",
-    "text": "الْحَمْدُ لِلَّهِ وَهُمْ فِي الْعَالِمِينَ",
-    "duration_ms": 5260.0
+    "text": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+    "duration_ms": 3820.0
   },
   {
     "file": "splitted_audio/chunk_1.wav",
-    "text": "اللَّهُ عَلِيمَانِ فِي الْمُبِينِ",
-    "duration_ms": 6199.0
-  },
-  {
-    "file": "splitted_audio/chunk_10.wav",
-    "text": "",
-    "duration_ms": 35913.0
-  },
-  {
-    "file": "splitted_audio/chunk_11.wav",
-    "text": "ثُمَّ أَرَضَهُ عَلَى أَنْفَقَهَا أَنْذِرُونِي مِنَ السَّائِمَاءِ هَؤُلَاءِ إِذْ كُنْتُمْ صَادِقِينَ",
-    "duration_ms": 16575.0
+    "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "duration_ms": 4910.0
   },
   {
     "file": "splitted_audio/chunk_2.wav",
-    "text": "فَإِيَّا جَعَمُوا وَإِيَّا يَسْتَعِينَ",
-    "duration_ms": 5678.0
+    "text": "الرَّحْمَنِ الرَّحِيمِ",
+    "duration_ms": 3793.015873015873
   },
   {
     "file": "splitted_audio/chunk_3.wav",
-    "text": "إِذْ صِرَاطَ الْمُسْتَقِيمَ صِرْعَقَ الَّذِينَ أَتَعَمْتَ عَلَيْهِمْ غَيْرِ الْأَرْضُوبِ عَلِيمٍ",
-    "duration_ms": 10407.0
+    "text": "مَالِكِ يَوْمِ الدِّينِ",
+    "duration_ms": 3881.0204081632655
   },
   {
     "file": "splitted_audio/chunk_4.wav",
-    "text": "وَالَّذِينَ أَعْتَ عَلَيْهِمْ غَيْرِ مَوْءٍ عَلَيْهِمْ وَالضَّالِّينَ",
-    "duration_ms": 13527.0
+    "text": "إِيَّانَ",
+    "duration_ms": 793.9909297052154
   },
   {
     "file": "splitted_audio/chunk_5.wav",
-    "text": "حم",
-    "duration_ms": 2764.0
+    "text": "كَنَعْبُدُ وَإِيَّا",
+    "duration_ms": 2249.002267573696
   },
   {
     "file": "splitted_audio/chunk_6.wav",
-    "text": "وَالْمُؤْمِنِينَ",
-    "duration_ms": 274.0
+    "text": "تَبْتَغِي",
+    "duration_ms": 531.9954648526077
   },
   {
     "file": "splitted_audio/chunk_7.wav",
-    "text": "وَالْمُؤْمِنِينَ",
-    "duration_ms": 184.0
-  },
-  {
-    "file": "splitted_audio/chunk_8.wav",
-    "text": "وَالْمُؤْمِنِينَ",
-    "duration_ms": 132.0
-  },
-  {
-    "file": "splitted_audio/chunk_9.wav",
-    "text": "وَإِذْ قَالَ لَوْفُكَ لِلْأَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَوِّقَ لِيبَى",
-    "duration_ms": 10521.0
+    "text": "الم",
+    "duration_ms": 3028.0045351473923
   }
 ]

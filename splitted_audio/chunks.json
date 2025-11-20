@@ -1,50 +1,34 @@
 [
   {
     "file": "splitted_audio/chunk_0.wav",
-    "duration_ms": 5260
+    "duration_ms": 3820
   },
   {
     "file": "splitted_audio/chunk_1.wav",
-    "duration_ms": 6199
+    "duration_ms": 4910
   },
   {
     "file": "splitted_audio/chunk_2.wav",
-    "duration_ms": 5678
+    "duration_ms": 3793
   },
   {
     "file": "splitted_audio/chunk_3.wav",
-    "duration_ms": 10407
+    "duration_ms": 3881
   },
   {
     "file": "splitted_audio/chunk_4.wav",
-    "duration_ms": 13527
+    "duration_ms": 794
   },
   {
     "file": "splitted_audio/chunk_5.wav",
-    "duration_ms": 2764
+    "duration_ms": 2249
   },
   {
     "file": "splitted_audio/chunk_6.wav",
-    "duration_ms": 274
+    "duration_ms": 532
   },
   {
     "file": "splitted_audio/chunk_7.wav",
-    "duration_ms": 184
-  },
-  {
-    "file": "splitted_audio/chunk_8.wav",
-    "duration_ms": 132
-  },
-  {
-    "file": "splitted_audio/chunk_9.wav",
-    "duration_ms": 10521
-  },
-  {
-    "file": "splitted_audio/chunk_10.wav",
-    "duration_ms": 35913
-  },
-  {
-    "file": "splitted_audio/chunk_11.wav",
-    "duration_ms": 16575
+    "duration_ms": 3028
   }
 ]
